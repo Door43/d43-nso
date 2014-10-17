@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nso:home|Door43 (nso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nso|d43-nso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nso/archive/master.zip|d43-nso.zip]]
+
+**Recent Changes**
+{{changes>ns = nso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nso|Ethnologue data]]
+
